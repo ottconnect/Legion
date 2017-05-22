@@ -1,9 +1,8 @@
-# [SIZE=5].:: DEV APEX TEAM Legion 7.2.0 build 24015 ::.[/SIZE]
+# .:: DEV APEX TEAM Legion 7.2.0 build 24015 ::.
 
 Dev Apex Team is a MMORPG Framework based mostly in C++.
 
 It is derived from MaNGOS, TrinityCore the Massive Network Game Object Server, and is based on the code of that project with extensive changes over time to optimize, improve and cleanup the codebase at the same time as improving the in-game mechanics and functionality.
-
 
 If you want more details for now join me on my team website http://www.devapexteam.com
 
