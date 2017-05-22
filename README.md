@@ -1,6 +1,4 @@
-# Legion
-[CENTER]
-[SIZE=5].:: DEV APEX TEAM Legion 7.2.0 build 24015 ::.[/SIZE]
+# [SIZE=5].:: DEV APEX TEAM Legion 7.2.0 build 24015 ::.[/SIZE]
 
 Dev Apex Team is a MMORPG Framework based mostly in C++.
 
@@ -31,4 +29,4 @@ Download: https://drive.google.com/open?id=0ByMbyQDZai7zanRtV0kwSGpONzA Connecti
 -----------------------------------------------------------------------------------------------------------------
 Download: https://drive.google.com/open?id=0ByMbyQDZai7zNnBsTDM3YjRuMzg Connection Patcher 64bits
 -----------------------------------------------------------------------------------------------------------------
-[/CENTER]
+
