@@ -1,4 +1,4 @@
-# .:: DEVAPEXTEAM Legion 7.2.0 build 24015 ::.
+# .:: DEVAPEXTEAM Legion 7.2.5 build 24461 ::.
 
 DevApexTeam is a MMORPG Framework based mostly in C++.
 
